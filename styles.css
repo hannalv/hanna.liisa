@@ -1,0 +1,136 @@
+body {
+  font-family: "raleway";
+}
+/*title section*/
+.navbar {
+  padding: 7px;
+}
+.nav-item {
+  padding: 3px 5px;
+  text-align: center;
+}
+.nav-link {
+  font-weight: lighter;
+}
+#intro {
+  text-align: left;
+  font-family: "raleway";
+  padding: 5% 15%;
+  padding-bottom: 100px;
+  }
+.intropic{
+  text-align: center;
+  max-width: 85%;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 900;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h3 {
+  padding-bottom: 15px;
+  font-size: 2rem;
+}
+.introtitle {
+  padding-top: 150px;
+}
+/* about me section*/
+.profile {
+  text-align: center;
+  padding: 50px 150px;
+  background-color: #FFF8E8;
+}
+.profilepic {
+  border-radius: 50%;
+  margin-top: 10px;
+  padding-bottom: 15px;
+}
+#education {
+  text-align: center;
+  padding: 80px 220px;
+  line-height: 2;
+}
+.table {
+  padding-left: 50px;
+  text-align: left;
+  line-height: 2;
+}
+.graduation {
+  width: 65%;
+}
+#portfolio {
+  text-align: center;
+  background-color: #FFF8E8;
+  padding: 5% 15%;
+
+}
+.htmlpic {
+  width: 85%;
+  padding-bottom: 33px;
+}
+.csspic {
+  width: 80%;
+  padding-bottom: 23px;
+}
+.bootstrappic {
+  width: 70%;
+  padding-bottom: 20px;
+}
+.portfolio-box {
+  padding: 5%;
+  line-height: 2;
+}
+#skills {
+  text-align: center;
+  padding: 5% 15%;
+}
+.skillpic {
+  width: 50%;
+  padding: 30px 30px;
+}
+.skill-row {
+  text-align: left;
+  padding-bottom: 50px;
+  margin: auto;
+  width: 200px;
+}
+.skill-row1 {
+  text-align: right;
+  margin: auto;
+  width: 200px;
+}
+.thinking {
+  padding-left: 35px;
+}
+#contactme {
+  background-color: #FFF8E8;
+}
+.middlecontainer {
+  text-align: center;
+  font-size: 2rem;
+  line-height: 2;
+  padding: 40px;
+}
+.bottomcontainer {
+  text-align: center;
+  padding: 20px;
+
+}
+@media (max-width: 1030px) {
+ #intro {
+   text-align: center;
+ }
+ .skill-row {
+   text-align: center;
+ }
+ .skill-row1 {
+   text-align: center;
+ }
+ .skillpic {
+   width: 50%;
+   padding: 30px 30px;
+ }
+}
